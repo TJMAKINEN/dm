@@ -1,50 +1,50 @@
-laridae high-AR lightgrey-back white-belly B-ftype similar red-billcol red-legcol March-April July low-eggs both-incub both-ccare lakes sea-bays fish invertebrates garbage webbed-feet plunge-dives high-wsi
-laridae high-AR bluishgrey-back white-belly B-ftype similar yellow-billcol reddish-legcol March-April August-December low-eggs both-incub both-ccare lakes sea-coast marshland fish garbage chicks grain webbed-feet plunge-dives high-wsi
-laridae high-AR bluishgrey-back white-belly B-ftype similar yellow-billcol reddish-legcol December March both-incub both-ccare sea-coast harbours fish eggs chicks garbage carrion webbed-feet plunge-dives high-wsi
-sternidae high-AR grey-back white-belly B-ftype similar red-billcol red-legcol May August-September low-eggs both-incub both-ccare lakes archipelago fish webbed-feet plunge-dives low-bmi
-sternidae high-AR low-wload grey-back white-belly B-ftype similar red-billcol red-legcol May July-August low-eggs both-incub both-ccare archipelago lakes marshland fish webbed-feet plunge-dives low-bmi
-scolopacidae dappledbrown-back white-belly C-ftype nonsimilar dark-brown-billcol orange-legcol April-May June-July F-incub F-ccare marshland wetlands invertebrates seeds long-legs wading-bird
-scolopacidae dappledbrown-back white-belly C-ftype similar reddish-brown-billcol greenish-grey-legcol April-May August-October F-incub F-ccare marshland coastal-meadows invertebrates long-billed wading-bird low-bmi
-scolopacidae dappledbrown-back dappledbeige-belly C-ftype similar brown-billcol yellowish-grey-legcol March-April September-October F-incub F-ccare forests invertebrates worms larvae snails long-billed wading-bird
-scolopacidae brown-back white-belly C-ftype similar black-billcol greenish-grey-legcol March-April June-July both-incub M-ccare forests ponds invertebrates plants long-billed long-legs wading-bird
-scolopacidae dappledbrown-back white-belly C-ftype similar black-billcol greenish-yellow-legcol May June-September both-incub M-ccare marshland wetlands invertebrates long-billed long-legs wading-bird low-bmi
-scolopacidae black-brown-back white-belly C-ftype similar black-billcol orange-legcol April-May July-August both-incub M-ccare archipelago islets invertebrates eggs wading-bird
-scolopacidae dappledbrown-back black-white-belly C-ftype similar black-billcol black-legcol March-June July-October both-incub both-ccare coastal-meadows wetlands invertebrates long-billed wading-bird low-bmi
-scolopacidae low-wload dappledbrown-back white-belly C-ftype similar black-billcol black-legcol May-June July-September both-incub both-ccare shores wetlands shrub-tundra invertebrates wading-bird low-bmi
-charadriidae greyishbrown-back white-belly C-ftype similar black-billcol brownish-legcol April-May July-August both-incub both-ccare shores insects snails wading-bird
-charadriidae greyishbrown-back white-belly C-ftype similar orange-billcol orange-legcol March-April July-October both-incub both-ccare shores invertebrates snails wading-bird
-charadriidae dappledbrown-back black-belly C-ftype similar black-billcol yellow-legcol May-June August-September M-incub M-ccare fells insects worms berries wading-bird high-wsi
-charadriidae low-AR black-back white-belly C-ftype similar black-billcol brownish-red-legcol March-April June-November both-incub both-ccare fields worms insects wading-bird
-dabblingducks dappledbrown-back white-belly C-ftype nonsimilar grey-billcol grey-legcol March-May August-October high-eggs F-incub F-ccare lakes marshland shores plants webbed-feet
-dabblingducks dappledbrown-back beige-belly C-ftype nonsimilar grey-billcol greenish-grey-legcol April-May August-September high-eggs F-incub F-ccare lakes ponds streams plants invertebrates webbed-feet
-dabblingducks dappledbrown-back beige-belly C-ftype nonsimilar orange-billcol orange-legcol March-April October-November high-eggs F-incub F-ccare lakes shores plants invertebrates webbed-feet low-wsi
-dabblingducks dappledbrown-back beige-belly C-ftype nonsimilar grey-billcol grey-legcol April-May August-September high-eggs F-incub F-ccare lakes shores plants invertebrates webbed-feet
-dabblingducks dappledbrown-back darkbrown-belly C-ftype nonsimilar greenish-brown-billcol orange-red-legcol April-May August-October high-eggs F-incub F-ccare shores plants invertebrates webbed-feet
-divingducks high-wload darkbrown-back darkbrown-belly C-ftype nonsimilar light-grey-billcol bluish-grey-legcol March-April September-December high-eggs F-incub F-ccare lakes archipelago molluscs insects plants diver webbed-feet
-divingducks high-wload beige-back beige-belly C-ftype nonsimilar dark-grey-billcol bluish-grey-legcol April-May September high-eggs F-incub F-ccare nutrient-rich-lakes sea-bays plants molluscs insects fish diver webbed-feet high-bmi
-anserinae dappledbrown-back lightgrey-belly C-ftype similar orange-billcol pink-legcol April August-September F-incub both-ccare archipelago grass algae grain webbed-feet high-bmi
-anserinae high-wload white-back white-belly C-ftype similar red-billcol dark-grey-legcol March-April November F-incub both-ccare archipelago plants invertebrates webbed-feet high-bmi low-wsi
-gruifores grey-back grey-belly C-ftype similar reddish-billcol black-legcol March-May August-October low-eggs both-incub both-ccare marshland plants grain frogs insects small-rodents long-billed long-legs wading-bird
-rallidae low-AR dappledbrown-back grey-belly C-ftype similar red-billcol reddish-brown-legcol March-April September high-eggs both-incub both-ccare nutrient-rich-lakes sea-bays reedbeds plants vertebrae long-billed long-legs wading-bird
-rallidae low-AR dappledbrown-back beige-belly C-ftype similar beige-billcol reddish-brown-legcol June August-September high-eggs F-incub F-ccare fields meadows invertebrates plants seeds long-legs wading-bird
-rallidae low-AR brownishblack-back darkgrey-belly C-ftype similar red-billcol greenish-legcol April September-November both-incub both-ccare lakes sea-bays reedbeds plants invertebrates long-legs wading-bird
-rallidae greyishblack-back greyishblack-belly C-ftype similar white-billcol greenish-legcol March-April August-October high-eggs both-incub both-ccare nutrient-rich-lakes sea-bays reedbeds insects webbed-feet wading-bird high-bmi
-rallidae low-AR dappledbrown-back dappledbrown-belly C-ftype similar yellow-billcol greenish-legcol May August-September high-eggs both-incub both-ccare meadows reedbeds nutrient-rich-lakes invertebrates algae seeds wading-bird
-phalacrocoracidae black-back black-belly C-ftype similar grey-billcol black-legcol April-May August-October both-incub both-ccare islets fish shellfish diver long-billed webbed-feet low-wsi
-podicipedidae high-AR high-wload blackishgrey-back white-belly C-ftype similar reddish-billcol yellowish-grey-legcol May August-October both-incub both-ccare lakes sea-bays fish diver long-billed webbed-feet low-wsi
-podicipedidae high-wload blackishgrey-back reddishbrown-belly C-ftype similar dark-billcol black-legcol April-May August-November both-incub both-ccare lakes fish shellfish clams diver long-billed webbed-feet
-podicipedidae high-wload black-back reddishbrown-belly C-ftype similar black-billcol greenish-black-legcol April-May July-August both-incub both-ccare lakes ponds insects shellfish diver webbed-feet high-bmi low-wsi
-podicipedidae black-back beige-belly C-ftype similar black-billcol greenish-legcol April October both-incub both-ccare lakes ponds fish insects shellfish clams diver webbed-feet
-gaviidae high-AR high-wload greyishbrown-back white-belly C-ftype similar black-billcol black-legcol April-May September-November low-eggs both-incub both-ccare ponds lakes fish diver webbed-feet high-bmi
-gaviidae high-AR high-wload black-white-back white-belly C-ftype similar black-billcol black-legcol April-May August-October low-eggs both-incub both-ccare lakes sea-bays fish diver webbed-feet high-bmi
-ardeidae dappledbrown-back dappledbrown-belly B-ftype similar greenish-yellow-billcol greenish-yellow-legcol April-May August-October F-incub F-ccare reedbeds nutrient-rich-lakes sea-bays fish frogs chicks small-rodents long-billed wading-bird
-ardeidae lightgrey-back greyishwhite-belly B-ftype similar yellow-billcol brown-legcol March-May August-November both-incub both-ccare nutrient-rich-lakes sea-bays islets fish frogs snakes small-rodents chicks long-billed long-legs wading-bird low-bmi
-ardeidae black-white-back white-belly A-ftype similar red-billcol red-legcol April-May August-September both-incub both-ccare meadows pastures wetlands frogs worms small-rodents insects snakes long-billed long-legs wading-bird
-accipitridae low-AR grey-back black-white-belly A-ftype similar black-billcol yellow-legcol March-April September-November F-incub both-ccare forests birds small-rodents hares squirrels
-accipitridae low-AR greyishbrown-back black-white-belly A-ftype similar bluish-grey-billcol greenish-yellow-legcol March-May August F-incub both-ccare forests birds small-rodents
-accipitridae darkbrown-back brown-white-belly A-ftype similar yellow-black-billcol yellow-legcol March-April August-October both-incub both-ccare forest-edges rodents chicks frogs snakes high-wsi
-accipitridae low-AR greyishbrown-back brown-white-belly A-ftype similar black-billcol yellow-legcol May August low-eggs both-incub both-ccare forests forest-edges insects eggs chicks frogs small-rodents
-accipitridae darkbrown-back brown-belly A-ftype nonsimilar black-billcol yellow-legcol April August-September F-incub both-ccare reedbeds small-rodents chicks frogs insects high-wsi
-accipitridae low-wload brown-back brown-white-belly A-ftype nonsimilar yellow-black-billcol yellow-legcol April August-October F-incub both-ccare marshland wetlands shores small-rodents birds frogs insects
-accipitridae darkbrown-back darkbrown-belly A-ftype similar black-billcol reddish-yellow-legcol April-May August-October both-incub both-ccare shores meadows forest-edges fish frogs small-rodents lizards carrion high-wsi
-accipitridae low-AR brown-back brown-belly A-ftype similar yellow-billcol yellow-legcol March-April October-November low-eggs both-incub both-ccare sea-coast lakes birds fish carrion plunge-dives high-bmi high-wsi
+laridae high-AR B-ftype similar early-arrival early-leave low-eggs both-incub both-ccare lakes sea-bays fish invertebrates garbage webbed-feet plunge-dives high-wsi
+laridae high-AR B-ftype similar early-arrival late-leave low-eggs both-incub both-ccare lakes sea-coast marshland fish garbage chicks grain webbed-feet plunge-dives high-wsi
+laridae high-AR B-ftype similar late-arrival early-leave both-incub both-ccare sea-coast harbours fish eggs chicks garbage carrion webbed-feet plunge-dives high-wsi
+sternidae high-AR B-ftype similar late-arrival low-eggs both-incub both-ccare lakes archipelago fish webbed-feet plunge-dives low-bmi
+sternidae high-AR low-wload B-ftype similar late-arrival early-leave low-eggs both-incub both-ccare archipelago lakes marshland fish webbed-feet plunge-dives low-bmi
+scolopacidae C-ftype nonsimilar early-leave F-incub F-ccare marshland wetlands invertebrates seeds long-legs wading-bird
+scolopacidae C-ftype similar F-incub F-ccare marshland coastal-meadows invertebrates long-billed wading-bird low-bmi
+scolopacidae C-ftype similar early-arrival F-incub F-ccare forests invertebrates worms larvae snails long-billed wading-bird
+scolopacidae C-ftype similar early-arrival early-leave both-incub M-ccare forests ponds invertebrates plants long-billed long-legs wading-bird
+scolopacidae C-ftype similar late-arrival early-leave both-incub M-ccare marshland wetlands invertebrates long-billed long-legs wading-bird low-bmi
+scolopacidae C-ftype similar early-leave both-incub M-ccare archipelago islets invertebrates eggs wading-bird
+scolopacidae C-ftype similar both-incub both-ccare coastal-meadows wetlands invertebrates long-billed wading-bird low-bmi
+scolopacidae low-wload C-ftype similar late-arrival early-leave both-incub both-ccare shores wetlands shrub-tundra invertebrates wading-bird low-bmi
+charadriidae C-ftype similar early-leave both-incub both-ccare shores insects snails wading-bird
+charadriidae C-ftype similar early-arrival both-incub both-ccare shores invertebrates snails wading-bird
+charadriidae C-ftype similar late-arrival M-incub M-ccare fells insects worms berries wading-bird high-wsi
+charadriidae low-AR C-ftype similar early-arrival both-incub both-ccare fields worms insects wading-bird
+dabblingducks C-ftype nonsimilar high-eggs F-incub F-ccare lakes marshland shores plants webbed-feet
+dabblingducks C-ftype nonsimilar high-eggs F-incub F-ccare lakes ponds streams plants invertebrates webbed-feet
+dabblingducks C-ftype nonsimilar early-arrival late-leave high-eggs F-incub F-ccare lakes shores plants invertebrates webbed-feet low-wsi
+dabblingducks C-ftype nonsimilar high-eggs F-incub F-ccare lakes shores plants invertebrates webbed-feet
+dabblingducks C-ftype nonsimilar high-eggs F-incub F-ccare shores plants invertebrates webbed-feet
+divingducks high-wload C-ftype nonsimilar early-arrival late-leave high-eggs F-incub F-ccare lakes archipelago molluscs insects plants diver webbed-feet
+divingducks high-wload C-ftype nonsimilar high-eggs F-incub F-ccare nutrient-rich-lakes sea-bays plants molluscs insects fish diver webbed-feet high-bmi
+anserinae C-ftype similar F-incub both-ccare archipelago grass algae grain webbed-feet high-bmi
+anserinae high-wload C-ftype similar early-arrival late-leave F-incub both-ccare archipelago plants invertebrates webbed-feet high-bmi low-wsi
+gruifores C-ftype similar low-eggs both-incub both-ccare marshland plants grain frogs insects small-rodents long-billed long-legs wading-bird
+rallidae low-AR C-ftype similar early-arrival high-eggs both-incub both-ccare nutrient-rich-lakes sea-bays reedbeds plants vertebrae long-billed long-legs wading-bird
+rallidae low-AR C-ftype similar late-arrival high-eggs F-incub F-ccare fields meadows invertebrates plants seeds long-legs wading-bird
+rallidae low-AR C-ftype similar late-leave both-incub both-ccare lakes sea-bays reedbeds plants invertebrates long-legs wading-bird
+rallidae C-ftype similar early-arrival high-eggs both-incub both-ccare nutrient-rich-lakes sea-bays reedbeds insects webbed-feet wading-bird high-bmi
+rallidae low-AR C-ftype similar late-arrival high-eggs both-incub both-ccare meadows reedbeds nutrient-rich-lakes invertebrates algae seeds wading-bird
+phalacrocoracidae C-ftype similar both-incub both-ccare islets fish shellfish diver long-billed webbed-feet low-wsi
+podicipedidae high-AR high-wload C-ftype similar late-arrival both-incub both-ccare lakes sea-bays fish diver long-billed webbed-feet low-wsi
+podicipedidae high-wload C-ftype similar both-incub both-ccare lakes fish shellfish clams diver long-billed webbed-feet
+podicipedidae high-wload C-ftype similar early-leave both-incub both-ccare lakes ponds insects shellfish diver webbed-feet high-bmi low-wsi
+podicipedidae C-ftype similar late-leave both-incub both-ccare lakes ponds fish insects shellfish clams diver webbed-feet
+gaviidae high-AR high-wload C-ftype similar late-leave low-eggs both-incub both-ccare ponds lakes fish diver webbed-feet high-bmi
+gaviidae high-AR high-wload C-ftype similar low-eggs both-incub both-ccare lakes sea-bays fish diver webbed-feet high-bmi
+ardeidae B-ftype similar F-incub F-ccare reedbeds nutrient-rich-lakes sea-bays fish frogs chicks small-rodents long-billed wading-bird
+ardeidae B-ftype similar both-incub both-ccare nutrient-rich-lakes sea-bays islets fish frogs snakes small-rodents chicks long-billed long-legs wading-bird low-bmi
+ardeidae A-ftype similar both-incub both-ccare meadows pastures wetlands frogs worms small-rodents insects snakes long-billed long-legs wading-bird
+accipitridae low-AR A-ftype similar early-arrival late-leave F-incub both-ccare forests birds small-rodents hares squirrels
+accipitridae low-AR A-ftype similar early-leave F-incub both-ccare forests birds small-rodents
+accipitridae A-ftype similar early-arrival both-incub both-ccare forest-edges rodents chicks frogs snakes high-wsi
+accipitridae low-AR A-ftype similar late-arrival early-leave low-eggs both-incub both-ccare forests forest-edges insects eggs chicks frogs small-rodents
+accipitridae A-ftype nonsimilar F-incub both-ccare reedbeds small-rodents chicks frogs insects high-wsi
+accipitridae low-wload A-ftype nonsimilar F-incub both-ccare marshland wetlands shores small-rodents birds frogs insects
+accipitridae A-ftype similar both-incub both-ccare shores meadows forest-edges fish frogs small-rodents lizards carrion high-wsi
+accipitridae low-AR A-ftype similar early-arrival late-leave low-eggs both-incub both-ccare sea-coast lakes birds fish carrion plunge-dives high-bmi high-wsi
